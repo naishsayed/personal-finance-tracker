@@ -16,9 +16,6 @@ A modern, responsive personal finance tracking application built with React, Vit
 - 📱 **Mobile Friendly** - Works seamlessly on all devices
 - 🌙 **Dark Mode Support** - Easy on the eyes (optional feature)
 
-## 🚀 Live Demo
-
-[View Live Demo](https://your-demo-link.vercel.app) *(Replace with your actual deployment link)*
 
 ## 📸 Screenshots
 
