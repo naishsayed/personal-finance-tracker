@@ -243,7 +243,7 @@ SOFTWARE.
 **Naish Sayed**
 
 - GitHub: [@naishsayed](https://github.com/naishsayed)
-- LinkedIn: [Naish Sayed](www.linkedin.com/in/naish-sayed) 
+- LinkedIn: [Naish Sayed](https://www.linkedin.com/in/naish-sayed)
 
 ## 🙏 Acknowledgements
 
