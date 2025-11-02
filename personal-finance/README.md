@@ -24,7 +24,7 @@ A modern, responsive personal finance tracking application built with React, Vit
 
 | Dashboard View | Analytics View |
 |----------------|----------------|
-| ![Dashboard](https://via.placeholder.com/400x250.png?text=Dashboard+View) | ![Charts](https://via.placeholder.com/400x250.png?text=Analytics+View) |
+| ![Dashboard](./public/screenshots/dashboard.png) | ![Charts](./public/screenshots/piechart.png) |
 
 *🖼️ Replace these placeholders with actual screenshots of your project*
 
