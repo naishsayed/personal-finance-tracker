@@ -242,9 +242,8 @@ SOFTWARE.
 
 **Naish Sayed**
 
-- GitHub: [@naishsayed](https://github.com/naishsayed) *(Replace with your actual GitHub username)*
-- LinkedIn: [Naish Sayed](https://linkedin.com/in/naishsayed) *(Replace with your actual LinkedIn)*
-- Portfolio: [naishsayed.dev](https://naishsayed.dev) *(Replace with your actual portfolio)*
+- GitHub: [@naishsayed](https://github.com/naishsayed)
+- LinkedIn: [Naish Sayed](www.linkedin.com/in/naish-sayed) 
 
 ## 🙏 Acknowledgements
 
